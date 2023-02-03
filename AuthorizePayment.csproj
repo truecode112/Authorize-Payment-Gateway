@@ -53,12 +53,8 @@
     <Compile Include="CustomerProfiles\CreateCustomerPaymentProfile.cs" />
     <Compile Include="CustomerProfiles\CreateCustomerProfile.cs" />
     <Compile Include="CustomerProfiles\GetCustomerPaymentProfile.cs" />
-    <Compile Include="CustomerProfiles\GetCustomerPaymentProfileList.cs" />
     <Compile Include="CustomerProfiles\GetCustomerProfile.cs" />
-    <Compile Include="CustomerProfiles\GetCustomerProfileIds.cs" />
     <Compile Include="CustomerProfiles\UpdateCustomerPaymentProfile.cs" />
-    <Compile Include="CustomerProfiles\UpdateCustomerProfile.cs" />
-    <Compile Include="CustomerProfiles\ValidateCustomerPaymentProfile.cs" />
     <Compile Include="PaymentTransactions\ChargeCreditCard.cs" />
     <Compile Include="PaymentTransactions\ChargeCustomerProfile.cs" />
     <Compile Include="Program.cs" />
